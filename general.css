@@ -1,6 +1,7 @@
 body {
 	--text: #ffffff;
 	--bg: #000000;
+	--secondary-bg: #202020;
 	--navbar-bg: #404040;
 	--hr: #808080;
 	--a: #beeeef;
@@ -13,9 +14,10 @@ body {
 .light {
 	--text: #000000;
 	--bg: #ffffff;
-	--navbar-bg: #b0b0b0;
+	--secondary-bg: #e0e0e0;
+	--navbar-bg: #e0e0e0;
 	--hr: #808080;
-	--a: #deeaad;
+	--a: #00e070;
 }
 
 hr {
