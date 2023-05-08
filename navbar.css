@@ -1,0 +1,29 @@
+ul.navbar {
+	list-style-type: none;
+	margin: 0;
+	margin-bottom: 1em;
+	padding: 0;
+	overflow: hidden;
+	background-color: red;
+}
+
+ul.navbar li {
+	display: inline;
+}
+
+ul.navbar li .left {
+	float: left;
+	display: block;
+	padding: 8px;
+}
+
+ul.navbar li .right {
+	float: right;
+	display: block;
+	padding: 8px;
+}
+
+ul.navbar p {
+	margin: 0;
+	padding: 0;
+}
