@@ -1,9 +1,42 @@
+body {
+	--text: #ffffff;
+	--bg: #000000;
+	--navbar-bg: #404040;
+	--hr: #808080;
+	--a: #beeeef;
+
+	padding: 8pt;
+	background-color: var(--bg);
+	color: var(--text);
+}
+
+.light {
+	--text: #000000;
+	--bg: #ffffff;
+	--navbar-bg: #b0b0b0;
+	--hr: #808080;
+	--a: #deeaad;
+}
+
+hr {
+	color: var(--hr);
+}
+
+a {
+	text-decoration: none !important;
+	color: var(--a);
+}
+
 a.ad img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin: 5pt;
 }
 
-p.h1d {
+#title {
+	margin: 0;
+}
+#titled {
 	font-style: italic;
 }
