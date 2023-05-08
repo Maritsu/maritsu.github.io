@@ -29,9 +29,10 @@ a {
 
 a.ad img {
 	display: block;
+	margin-top: 0;
 	margin-left: auto;
 	margin-right: auto;
-	margin: 5pt;
+	margin: 6pt;
 }
 
 #title {

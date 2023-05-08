@@ -1,0 +1,21 @@
+table.projects {
+	width: 100%;
+}
+
+table.projects td {
+	border-collapse: collapse;
+	border: 2px solid var(--hr);
+
+	width: 50%;
+	padding: 3px;
+}
+
+h3.proj {
+	margin: 0;
+}
+
+p.desc {
+	font-style: italic;
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+}

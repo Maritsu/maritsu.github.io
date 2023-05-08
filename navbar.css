@@ -1,7 +1,7 @@
 ul.navbar {
 	list-style-type: none;
 	margin: -8pt;
-	margin-bottom: 0;
+	margin-bottom: 6pt;
 	padding: 0;
 	overflow: hidden;
 	background-color: var(--navbar-bg);
